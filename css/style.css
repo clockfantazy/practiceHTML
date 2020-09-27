@@ -214,7 +214,7 @@ aside p {
 
 /* モバイル版
 ------------------------------- */
-@media (max-width: 60px) {
+@media (max-width: 60000000px) {
     .page-title {
         font-size: 2.5rem;
     }
