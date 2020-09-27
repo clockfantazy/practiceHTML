@@ -213,9 +213,8 @@ aside p {
 }
 
 /* モバイル版
-------------------------------------*/
-@media (max-width: 600px) {
-    /* 見出し */
+------------------------------- */
+@media (max-width: 60px) {
     .page-title {
         font-size: 2.5rem;
     }
@@ -233,4 +232,6 @@ aside p {
     .home-content {
         margin-top: 20%;
     }
+
 }
+
